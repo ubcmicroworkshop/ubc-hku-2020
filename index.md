@@ -27,23 +27,26 @@ Coming soon!
 
 ### Day 1: July 21st (Wed), 2020
 
-|                   |                                                 |
+| Day 1             | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |-------------------|-------------------------------------------------|
 | 08:00am - 09:30am | Nicole Immorlica (Microsoft)                    |
 | 09:30am - 10:00am | Coffee Break                                    |
 | 10:00am - 11:30am | Jason Hartline (Northwestern, Computer Science) |
+|-------------------|-------------------------------------------------|
 | 11:30am - 12:30pm | Break                                           |
 | 12:30pm - 02:00pm | Michael Schwarz (Microsoft)                     |
 
 
 ### Day 2: July 22nd (Thu), 2020
 
-|                   |                                    |
-|-------------------|------------------------------------|
-| 08:00am - 09:30am | Alex Smolin (Toulouse, Economics)  |
-| 09:30am - 10:00am | Coffee Break                       |
-| 10:00am - 11:30am | Isa Chaves (Northwestern, Kellogg) |
-| 11:30am - 12:00pm | Happy Hour                         |
+| Day 2             | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|-------------------|-------------------------------------------------|
+| 08:00am - 09:30am | Alex Smolin (Toulouse, Economics)               |
+| 09:30am - 10:00am | Coffee Break                                    |
+| 10:00am - 11:30am | Isa Chaves (Northwestern, Kellogg)              |
+| 11:30am - 12:00pm | Happy Hour                                      |
+
+
 
 
 ## Organizers
