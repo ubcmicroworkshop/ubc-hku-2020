@@ -4,8 +4,8 @@
 July 21st - 22nd, 2020 (in PDT).
 
 ## Organizers
-[Vancouver School of Economics, The University of British Columbia](https://economics.ubc.ca/)  
-[School of Economics and Finance](http://www.sef.hku.hk/) and [Hong Kong Institute of Economics and Business Strategy](http://www.hiebs.hku.hk/), The University of Hong Kong
+- [Vancouver School of Economics, The University of British Columbia](https://economics.ubc.ca/)  
+- [School of Economics and Finance](http://www.sef.hku.hk/) and [Hong Kong Institute of Economics and Business Strategy](http://www.hiebs.hku.hk/), The University of Hong Kong
 
 
 ## Venue
