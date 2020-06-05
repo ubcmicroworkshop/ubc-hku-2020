@@ -1,4 +1,18 @@
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:url" content="https://ubcmicroworkshop.github.io/ubc-hku-2020/" />
+<meta property="og:title" content="UBC-HKU Summer Theory Conference 2020 (online)" />
+<meta property="og:description" content="The UBC-HKU Summer Theory Conference will be held in July 21st (Wed) and 22nd (Thu) as an online conference." />
+<meta property="og:image" content="https://raw.githubusercontent.com/ubcmicroworkshop/ubc-hku-2020/master/ubc-hku-2020.png" />
+
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v7.0"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # UBC-HKU Summer Theory Conference 2020
+
+<div class="fb-share-button" data-href="https://ubcmicroworkshop.github.io/ubc-hku-2020/" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fubcmicroworkshop.github.io%2Fubc-hku-2020%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="UBC-HKU Summer Theory Conference: The Frontier of Economics + Computer Science " data-url="https://ubcmicroworkshop.github.io/ubc-hku-2020/" data-hashtags="ubc-hku-2020" data-show-count="false">Tweet</a> Official hashtag: #ubc-hku-2020
 
 ## Date
 July 21st - 22nd, 2020 (in PDT).
