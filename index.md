@@ -4,7 +4,7 @@
 July 21st - 22nd, 2020 (in PDT).
 
 ## Organizers
-[Vancouver School of Economics, The University of British Columbia](https://economics.ubc.ca/)
+[Vancouver School of Economics, The University of British Columbia](https://economics.ubc.ca/)  
 [School of Economics and Finance](http://www.sef.hku.hk/) and [Hong Kong Institute of Economics and Business Strategy](http://www.hiebs.hku.hk/), The University of Hong Kong
 
 
@@ -19,9 +19,11 @@ The UBC-HKU Summer Theory Conference 2020 is going virtual. The registration for
 - Alex Smolin (Toulouse School of Economics)
 - Isaias N. Chaves (Northwestern University, Kellogg School of Management)
 
+
 ## Program
 
 *All listed times are in PAcific Daylight Time zone (PDT).*
+
 
 ### Day 1: July 21st (Wed), 2020
 
@@ -50,6 +52,7 @@ The UBC-HKU Summer Theory Conference 2020 is going virtual. The registration for
 - 11:00 am - 11:30 am Isa Chaves (Q&A + Discussion)
 
 - 11:30 am - 12:00 pm Happy Hour
+
 
 ## Organizing Committee
 - Shunya Noda (UBC, Economics): Primary Contact (shunya.noda@ubc.ca)
