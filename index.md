@@ -1,4 +1,3 @@
-# UBC-HKU Summer Theory Conference 2020
 
 ## Date
 July 21st - 22nd, 2020 (in PDT).
@@ -22,7 +21,7 @@ Coming soon!
 
 ## Program
 
-*All listed times are in PAcific Daylight Time zone (PDT).*
+*All listed times are in Pacific Daylight Time zone (PDT).*
 
 
 ### Day 1: July 21st (Wed), 2020
