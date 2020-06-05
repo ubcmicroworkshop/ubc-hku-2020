@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 
-title: [UBC-HKU Summer Theory Conference 2020 (online)]
-description: [The Frontier of Economics + Computer Science]
+title: UBC-HKU Summer Theory Conference 2020 (online)
+description: The Frontier of Economics + Computer Science
 
-show_downloads: ["false"]
+show_downloads: "false"
