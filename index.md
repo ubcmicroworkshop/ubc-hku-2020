@@ -1,7 +1,7 @@
 <meta name="twitter:card" content="summary_large_image" />
 <meta property="og:url" content="https://ubcmicroworkshop.github.io/ubc-hku-2020/" />
 <meta property="og:title" content="UBC-HKU Summer Theory Conference 2020 (online)" />
-<meta property="og:description" content="The UBC-HKU Summer Theory Conference will be held in July 21st (Wed) and 22nd (Thu) as an online conference." />
+<meta property="og:description" content="The UBC-HKU Summer Theory Conference will be held in July 21st (Tue) and 22nd (Wed) as an online conference." />
 <meta property="og:image" content="https://raw.githubusercontent.com/ubcmicroworkshop/ubc-hku-2020/master/ubc-hku-2020.png" />
 
 
@@ -39,7 +39,7 @@ Coming soon!
 - All listed times are **in Pacific Daylight Time zone (PDT).**
 - Each session consists of a 60-minutes presentation + 30-minute discussion.
 
-### Day 1: July 21st (Wed), 2020
+### Day 1: July 21st (Tue), 2020
 
 | Day 1             | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |-------------------|-------------------------------------------------|
@@ -51,7 +51,7 @@ Coming soon!
 | 12:30pm - 02:00pm | Michael Schwarz (Microsoft)                     |
 
 
-### Day 2: July 22nd (Thu), 2020
+### Day 2: July 22nd (Wed), 2020
 
 | Day 2             | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |-------------------|-------------------------------------------------|
