@@ -49,23 +49,23 @@ Coming soon!
 
 ### Day 1: July 21st (Tue), 2020
 
-| Day 1             |                                                              |
-|-------------------|--------------------------------------------------------------|
-| 08:00am - 09:30am | Nicole Immorlica (Microsoft)                                 |
-| 09:30am - 10:00am | --- Break (30 min) ------------------------------------------|
-| 10:00am - 11:30am | Jason Hartline (Northwestern, Computer Science)              |
-| 11:30am - 12:30pm | --- Break (60 min) ------------------------------------------|
-| 12:30pm - 02:00pm | Michael Schwarz (Microsoft)                                  |
+| Day 1             |                                                                 |
+|-------------------|-----------------------------------------------------------------|
+| 08:00am - 09:30am | Nicole Immorlica (Microsoft)                                    |
+| 09:30am - 10:00am | ------ Break (30 min) ------------------------------------------|
+| 10:00am - 11:30am | Jason Hartline (Northwestern, Computer Science)                 |
+| 11:30am - 12:30pm | ------ Break (60 min) ------------------------------------------|
+| 12:30pm - 02:00pm | Michael Schwarz (Microsoft)                                     |
 
 
 ### Day 2: July 22nd (Wed), 2020
 
-| Day 2             |                                                              |
-|-------------------|--------------------------------------------------------------|
-| 08:00am - 09:30am | Alex Smolin (Toulouse, Economics)                            |
-| 09:30am - 10:00am | --- Break (30 min) ------------------------------------------|
-| 10:00am - 11:30am | Isa Chaves (Northwestern, Kellogg)                           |
-| 11:30am - 12:00pm | Happy Hour                                                   |
+| Day 2             |                                                                 |
+|-------------------|-----------------------------------------------------------------|
+| 08:00am - 09:30am | Alex Smolin (Toulouse, Economics)                               |
+| 09:30am - 10:00am | ------ Break (30 min) ------------------------------------------|
+| 10:00am - 11:30am | Isa Chaves (Northwestern, Kellogg)                              |
+| 11:30am - 12:00pm | Happy Hour                                                      |
 
 
 
