@@ -31,11 +31,11 @@ Coming soon!
 
 
 ## Speakers
-- Nicole Immorlica (Microsoft)
-- Jason Hartline (Northwestern University, Computer Science)
-- Michael Schwarz (Microsoft)
-- Alex Smolin (Toulouse School of Economics)
-- Isaias N. Chaves (Northwestern University, Kellogg School of Management)
+- [Nicole Immorlica (Microsoft)](http://www.immorlica.com/)
+- [Jason Hartline (Northwestern University, Computer Science)](https://sites.northwestern.edu/hartline/)
+- [Michael Schwarz (Microsoft)](https://www.microsoft.com/en-us/research/people/mschwarz/)
+- [Alex Smolin (Toulouse School of Economics)](https://sites.google.com/site/alexeyvsmolin/)
+- [Isaias N. Chaves (Northwestern University, Kellogg School of Management)](https://www.kellogg.northwestern.edu/faculty/directory/chaves_isaias.aspx)
 
 
 ## Conference Program
@@ -74,10 +74,10 @@ Coming soon!
 
 
 ## Committee
-- Shunya Noda (UBC, Economics): Primary Contact (shunya.noda@ubc.ca)
-- Vitor Farinha Luz (UBC, Economics)
-- Li, Hao (UBC, Economics)
-- Wei Li (UBC, Economics)
-- Michael Peters (UBC, Economics)
-- Sergei Severinov (UBC, Economics)
-- Wing Suen (HKU,Economics)
+- [Shunya Noda (UBC, Economics)](https://economics.ubc.ca/faculty-and-staff/shunya-noda/): Primary Contact (shunya.noda@ubc.ca)
+- [Vitor Farinha Luz (UBC, Economics)](https://economics.ubc.ca/faculty-and-staff/vitor-farinha-luz/)
+- [Li, Hao (UBC, Economics)](https://economics.ubc.ca/faculty-and-staff/hao-li/)
+- [Wei Li (UBC, Economics)](https://economics.ubc.ca/faculty-and-staff/wei-li/)
+- [Michael Peters (UBC, Economics)](https://economics.ubc.ca/faculty-and-staff/michael-peters/)
+- [Sergei Severinov (UBC, Economics)](https://economics.ubc.ca/faculty-and-staff/sergei-severinov/)
+- [Wing Suen (HKU,Economics)](http://www.fbe.hku.hk/~wsuen/)
