@@ -19,7 +19,7 @@
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="UBC-HKU Summer Theory Conference: The Frontier of Economics + Computer Science " data-url="https://ubcmicroworkshop.github.io/ubc-hku-2020/" data-hashtags="ubchku2020" data-show-count="false">Tweet</a> Official hashtag: #ubchku2020
 
 ## About
-The UBC-HKU Summer Theory Conference is an annual event that alternates between Vancouver (University of British Columbia) and Hong Kong (University of Hong Kong). For more information about the past editions, please visit [here](http://www.sef.hku.hk/~wsuen/research.html). This year, it was supposed to be held in Vancouver, but due to the pandemic of COVID-19, we decided to make it as an online conference.
+The UBC-HKU Summer Theory Conference is an annual event that alternates between Vancouver (University of British Columbia) and Hong Kong (University of Hong Kong). For more information about the past editions, please visit [here](http://www.sef.hku.hk/~wsuen/research.html). This year, the conference was supposed to be held in Vancouver, but due to the pandemic of COVID-19, we decided to make it as an online conference.
 
 
 ## Date
@@ -49,23 +49,23 @@ Coming soon!
 
 ### Day 1: July 21st (Tue), 2020
 
-| Day 1             |                                                       |
-|-------------------|-------------------------------------------------------|
-| 08:00am - 09:30am | Nicole Immorlica (Microsoft)                          |
-| 09:30am - 10:00am | --- Coffee Break -------------------------------------|
-| 10:00am - 11:30am | Jason Hartline (Northwestern, Computer Science)       |
-| 11:30am - 12:30pm | --- Break --------------------------------------------|
-| 12:30pm - 02:00pm | Michael Schwarz (Microsoft)                           |
+| Day 1             |                                                              |
+|-------------------|--------------------------------------------------------------|
+| 08:00am - 09:30am | Nicole Immorlica (Microsoft)                                 |
+| 09:30am - 10:00am | --- Coffee Break --------------------------------------------|
+| 10:00am - 11:30am | Jason Hartline (Northwestern, Computer Science)              |
+| 11:30am - 12:30pm | --- Break ---------------------------------------------------|
+| 12:30pm - 02:00pm | Michael Schwarz (Microsoft)                                  |
 
 
 ### Day 2: July 22nd (Wed), 2020
 
-| Day 2             |                                                       |
-|-------------------|-------------------------------------------------------|
-| 08:00am - 09:30am | Alex Smolin (Toulouse, Economics)                     |
-| 09:30am - 10:00am | --- Coffee Break -------------------------------------|
-| 10:00am - 11:30am | Isa Chaves (Northwestern, Kellogg)                    |
-| 11:30am - 12:00pm | Happy Hour                                            |
+| Day 2             |                                                              |
+|-------------------|--------------------------------------------------------------|
+| 08:00am - 09:30am | Alex Smolin (Toulouse, Economics)                            |
+| 09:30am - 10:00am | --- Coffee Break --------------------------------------------|
+| 10:00am - 11:30am | Isa Chaves (Northwestern, Kellogg)                           |
+| 11:30am - 12:00pm | Happy Hour                                                   |
 
 
 
