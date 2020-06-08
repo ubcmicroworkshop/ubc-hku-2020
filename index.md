@@ -18,12 +18,16 @@
 <div class="fb-share-button" data-href="https://ubcmicroworkshop.github.io/ubc-hku-2020/" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fubcmicroworkshop.github.io%2Fubc-hku-2020%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="UBC-HKU Summer Theory Conference: The Frontier of Economics + Computer Science " data-url="https://ubcmicroworkshop.github.io/ubc-hku-2020/" data-hashtags="ubchku2020" data-show-count="false">Tweet</a> Official hashtag: #ubchku2020
 
+## About
+The UBC-HKU Summer Theory Conference is an annual event that alternates between Vancouver (University of British Columbia) and Hong Kong (University of Hong Kong). For more information about the past editions, please visit [here](http://www.sef.hku.hk/~wsuen/research.html). This year, it was supposed to be held in Vancouver, but due to the pandemic of COVID-19, we decided to make it as an online conference.
+
+
 ## Date
 July 21st - 22nd, 2020 (in PDT).
 
 ## Venue
 
-The UBC-HKU Summer Theory Conference 2020 is going **virtual**.
+The UBC-HKU Summer Theory Conference 2020 is going **virtual**. We plan to have it as a **Zoom webinar**, and anyone can join the conference as "participants."
 
 ## Registration
 
