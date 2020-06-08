@@ -2,7 +2,7 @@
 <meta property="og:url" content="https://ubcmicroworkshop.github.io/ubc-hku-2020/" />
 <meta property="og:title" content="UBC-HKU Summer Theory Conference 2020 (online)" />
 <meta property="og:description" content="The UBC-HKU Summer Theory Conference will be held in July 21st (Tue) and 22nd (Wed) as an online conference." />
-<meta property="og:image" content="https://raw.githubusercontent.com/ubcmicroworkshop/ubc-hku-2020/master/ubc-hku-2020.png" />
+<meta property="og:image" content="https://raw.githubusercontent.com/ubcmicroworkshop/ubc-hku-2020/master/ubc-hku-2020.jpg" />
 
 
 <div id="fb-root"></div>
@@ -10,7 +10,7 @@
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-![og: image](https://raw.githubusercontent.com/ubcmicroworkshop/ubc-hku-2020/master/ubc-hku-2020.png)
+![og: image](https://raw.githubusercontent.com/ubcmicroworkshop/ubc-hku-2020/master/ubc-hku-2020.jpg)
 
 
 # UBC-HKU Summer Theory Conference 2020
