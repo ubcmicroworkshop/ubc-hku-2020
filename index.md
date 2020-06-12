@@ -3,6 +3,7 @@
 <meta property="og:title" content="UBC-HKU Summer Theory Conference 2020 (online)" />
 <meta property="og:description" content="The UBC-HKU Summer Theory Conference will be held in July 21st (Tue) and 22nd (Wed) as an online conference." />
 <meta property="og:image" content="https://raw.githubusercontent.com/ubcmicroworkshop/ubc-hku-2020/master/ubc-hku-2020.jpg" />
+<meta property="og:type" content="website" />
 
 
 <div id="fb-root"></div>
