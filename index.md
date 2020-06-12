@@ -42,6 +42,18 @@ Coming soon!
 - [Isaias N. Chaves (Northwestern University, Kellogg School of Management)](https://www.kellogg.northwestern.edu/faculty/directory/chaves_isaias.aspx)
 
 
+## Call for Panelists
+
+Although the UBC-HKU Summer Theory Conference 2020 is open to the public, we limit the number of "**panelists**" who can turn on their webcam and microphone, because we would like to make sure that (i) the conference will not be disturbed by an attacker, and (ii) interruptions are not too frequent.
+
+Having said that, we would like to promote active discussions, and to achieve this, we plan to invite **outside panelists**. Some panelists are recruited by an open call. The panelists are not required to prepare anything. What we only expect panelists is, (i) to agree with the video recording for a limited purpose (we will share the video with our HKU colleagues) and (ii) to actively participate in the Q&A/Discussion time.
+
+If you are interested, please submit your application via [this Google form](https://forms.gle/Z33Bsn8zDbe1u3NN8). We will close this application form at the midnight of June 29th (Mon).
+
+If you have any questions, please take a contact with Shunya Noda (shunya.noda@ubc.ca).
+
+
+
 ## Conference Program
 
 - All listed times are **in Pacific Daylight Time zone (PDT).**
