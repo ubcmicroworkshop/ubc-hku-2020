@@ -32,7 +32,7 @@ The UBC-HKU Summer Theory Conference 2020 is going **virtual**. We plan to have 
 
 ## Registration
 
-Coming soon!
+[Registration form as a participant](https://docs.google.com/forms/d/e/1FAIpQLSfBKKI907aGkNQho-UjuTPptW6O_5cqw6LeUfwCy7p11OCpSA/viewform?usp=sf_link)
 
 
 ## Speakers
@@ -49,7 +49,8 @@ Although the UBC-HKU Summer Theory Conference 2020 is open to the public, we lim
 
 Having said that, we would like to promote active discussions, and to achieve this, we plan to invite **outside panelists**. Some panelists are recruited by an open call. The panelists are not required to prepare anything. What we only expect panelists is, (i) to agree with the video recording for a limited purpose (we will share the video with our HKU colleagues) and (ii) to actively participate in the Q&A/Discussion time.
 
-If you are interested, please submit your application via [this Google form](https://forms.gle/Z33Bsn8zDbe1u3NN8). We will close this application form at the midnight of June 29th (Mon).
+If you are interested, please submit your application via the following Google form:  
+[Apply for becoming a panelist](https://forms.gle/Z33Bsn8zDbe1u3NN8)
 
 If you have any questions, please take a contact with Shunya Noda (shunya.noda@ubc.ca).
 
