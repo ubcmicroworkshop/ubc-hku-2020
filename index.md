@@ -32,7 +32,7 @@ The UBC-HKU Summer Theory Conference 2020 is going **virtual**. We plan to have 
 
 ## Registration
 
-Please fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSfBKKI907aGkNQho-UjuTPptW6O_5cqw6LeUfwCy7p11OCpSA/viewform?usp=sf_link).
+Coming soon!
 
 
 ## Speakers
