@@ -85,7 +85,7 @@ If you have any questions, please take a contact with Shunya Noda (shunya.noda@u
 |-------------------|-----------------------------------------------------------------|
 | 08:00am - 09:30am | Alex Smolin (Toulouse, Economics)<br>["Disclosure and Pricing of Attributes"](https://ubcmicroworkshop.github.io/ubc-hku-2020/disclosure_and_pricing_2020.pdf)                               |
 | 09:30am - 10:00am | ------ Break (30 min) ------------------------------------------|
-| 10:00am - 11:30am | Isa Chaves (Northwestern, Kellogg)                              |
+| 10:00am - 11:30am | Isa Chaves (Northwestern, Kellogg)<br>"Bargaining in Securities"                              |
 | 11:30am - 12:00pm | Happy Hour                                                      |
 
 
