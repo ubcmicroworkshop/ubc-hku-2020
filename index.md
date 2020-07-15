@@ -30,9 +30,13 @@ July 21st - 22nd, 2020 (in PDT).
 
 The UBC-HKU Summer Theory Conference 2020 is going **virtual**. We plan to have it as a **Zoom webinar**, and anyone can join the conference as "participants."
 
+## Instruction
+
+Instruction is available [here](https://ubcmicroworkshop.github.io/ubc-hku-2020/instruction).
+
 ## Registration
 
-[Registration form as a participant](https://docs.google.com/forms/d/e/1FAIpQLSfBKKI907aGkNQho-UjuTPptW6O_5cqw6LeUfwCy7p11OCpSA/viewform?usp=sf_link)
+[Registration form as a participant](https://ubc.zoom.us/webinar/register/WN_nh-999M9TSCiICeG6JVeVg)
 
 
 ## Speakers
