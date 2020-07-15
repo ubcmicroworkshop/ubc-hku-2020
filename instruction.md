@@ -92,4 +92,4 @@ We will also use the following terminology for this document:
 
 ## General Observations
 
-* The presentations will not be recorded.
+* The presentations will be recorded, and the video will be shown to our HKU colleagues.
