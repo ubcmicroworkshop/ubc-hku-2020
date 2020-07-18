@@ -76,7 +76,7 @@ If you have any questions, please take a contact with Shunya Noda (shunya.noda@u
 | 09:30am - 10:00am | ------ Break (30 min) ------------------------------------------|
 | 10:00am - 11:30am | Jason Hartline (Northwestern, Computer Science)<br>["Optimal Prior-independent Mechanism Design"](https://arxiv.org/abs/2001.10157)<br>(joint with Aleck Johnsen and Yingkai Li)|
 | 11:30am - 12:30pm | ------ Break (60 min) ------------------------------------------|
-| 12:30pm - 02:00pm | Michael Schwarz (Microsoft)                                     |
+| 12:30pm - 02:00pm | Michael Schwarz (Microsoft)<br>["Efficient Capacity Provisioning for Firms with Multiple Locations: The Case of Public Cloud"]                                     |
 
 
 ### Day 2: July 22nd (Wed), 2020
