@@ -72,7 +72,7 @@ If you have any questions, please take a contact with Shunya Noda (shunya.noda@u
 
 | Day 1             |                                                                 |
 |-------------------|-----------------------------------------------------------------|
-| 08:00am - 09:30am | Nicole Immorlica (Microsoft)                                    |
+| 08:00am - 09:30am | Nicole Immorlica (Microsoft)<br>["Incentivizing Exploration with Selective Data Disclosure"](https://arxiv.org/abs/1811.06026)<br>(joint with Jieming Mao, Alex Slivkins and Steven Wu)                                    |
 | 09:30am - 10:00am | ------ Break (30 min) ------------------------------------------|
 | 10:00am - 11:30am | Jason Hartline (Northwestern, Computer Science)<br>["Optimal Prior-independent Mechanism Design"](https://arxiv.org/abs/2001.10157)<br>(joint with Aleck Johnsen and Yingkai Li)|
 | 11:30am - 12:30pm | ------ Break (60 min) ------------------------------------------|
